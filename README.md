@@ -1,5 +1,5 @@
 markdown
-🚀 **[Click here to view the Live Demo]([PASTE_YOUR_STREAMLIT_URL_HERE](https://estonian-wildlife-population.streamlit.app))**
+🚀 **[Click here to view the Live Demo] https://estonian-wildlife-population.streamlit.app **
 # 🌲 Estonian Wildlife Population
 
 An interactive Streamlit web application designed to visualize and analyze wildlife population trends and regional density distributions in Estonia from 2022 to 2026. This project serves as a data analytics portfolio piece, utilizing modeled data inspired by official wildlife monitoring reports published by the **Estonian Environment Agency (Keskkonnaagentuur)**.
